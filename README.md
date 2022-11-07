@@ -4,7 +4,8 @@ Chess Program: created using C#, provides both single and multiplayer modes, sho
 There's lots of super cool logic in this code that enables valid moves to be made and invalid ones not to be. This was a really fun project to work on. A future improvement to this project would be creating a better version of the single-player AI that is able to look ahead several moves to figure out its best play. One way to do this would probably be using the Minimax algorithm.
 
 ## Example of viewing a piece's possible moves
-![move-example](https://user-images.githubusercontent.com/55119481/200202578-7affe094-1686-4c13-b7c9-b72e38fe4f11.jpg)
+![move-example](https://user-images.githubusercontent.com/55119481/200202749-13368aa7-dcc1-4286-93df-d0ee6a8aa43c.jpg)
+
 
 ## Starting Board
-![main](https://user-images.githubusercontent.com/55119481/200202606-96779996-04bd-4629-924d-9139218b48e2.jpg)
+![main](https://user-images.githubusercontent.com/55119481/200202760-374fa74d-3070-4ef9-9e44-f1a095c7c5ea.jpg)
